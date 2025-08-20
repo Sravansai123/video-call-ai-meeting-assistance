@@ -5,26 +5,26 @@ A cross-platform video meeting application with integrated AI assistant that com
 
 ## Features
 
-### 🎥 Video Calling
+###  Video Calling
 - WebRTC-based video calls using Daily.co
 - Person-to-person video meetings
 - Audio/video controls and participant management
 - Professional meeting interface
 
-### 🤖 AI Assistant
+###  AI Assistant
 - **Dataset-First Approach**: Checks predefined FAQ database first
 - **LLM Fallback**: Uses OpenAI GPT-4o-mini for complex queries
 - **Voice Input**: Whisper-powered speech-to-text transcription
 - **Smart Responses**: Formatted answers with code blocks and bullet points
 - **Source Indicators**: Shows whether answer came from dataset or AI
 
-### 💾 Data Management
+###  Data Management
 - **Conversation Memory**: Stores all Q&A exchanges in Supabase
 - **Meeting Summaries**: AI-generated summaries at session end
 - **Session Tracking**: Maintains context throughout meetings
 - **FAQ Database**: Predefined answers for common questions
 
-### 🎨 User Experience
+###  User Experience
 - **Split-Screen Layout**: Video call on left, AI chat on right
 - **Real-time Chat**: Instant responses with typing indicators
 - **Voice Recording**: Click-to-record audio questions
